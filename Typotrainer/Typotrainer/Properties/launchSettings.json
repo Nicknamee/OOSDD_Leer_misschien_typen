@@ -1,7 +1,9 @@
 {
   "profiles": {
     "Windows Machine": {
-      "commandName": "MsixPackage",
+      "commandName": "Executable",
+      "executablePath": "bin\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Typotrainer.exe",
+      "workingDirectory": "bin\\Debug\\net8.0-windows10.0.19041.0\\win10-x64",
       "nativeDebugging": false
     }
   }
